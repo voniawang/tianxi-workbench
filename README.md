@@ -4,12 +4,13 @@
 
 ## 在线访问
 
-启用 GitHub Pages 后，访问：
-
-```
-https://<你的用户名>.github.io/tianxi-workbench/
-```
+https://voniawang.github.io/tianxi-workbench/
 
 ## 本地查看
 
-直接用浏览器打开 `index.html` 即可，无需任何依赖或本地服务器。
+直接下载 `index.html`，用浏览器打开即可，无需任何依赖或本地服务器。
+
+## 说明
+
+- 本仓库仅包含打包后的产物 `index.html`（CSS / JS / 字体 / 图标均已内联）。
+- 交互演示为前端模拟，不连接任何真实服务。
